@@ -31,6 +31,7 @@ Maintains all the crates related to E310x chips.
 Projects maintained by this team.
 
 - [`e310x`]
+- [`riscv-rust-quickstart`]
 
 ### The `gd32vf103` team
 
@@ -45,6 +46,7 @@ Maintains all the crates related to GD32VF103x chips.
 - [`gd32vf103-pac`]
 - [`gd32vf103xx-hal`]
 - [`logan-nano`]
+- [`seedstudio-gd32v`]
 
 
 
@@ -52,9 +54,11 @@ Maintains all the crates related to GD32VF103x chips.
 [issue tracker]: https://github.com/riscv-rust/teams/issues
 
 [`e310x`]: https://github.com/riscv-rust/e310x
+[`riscv-rust-quickstart`]: https://github.com/riscv-rust/riscv-rust-quickstart
 [`gd32vf103-pac`]: https://github.com/riscv-rust/gd32vf103-pac
 [`gd32vf103xx-hal`]: https://github.com/riscv-rust/gd32vf103xx-hal
 [`logan-nano`]: https://github.com/riscv-rust/logan-nano
+[`seedstudio-gd32v`]: https://github.com/riscv-rust/seedstudio-gd32v
 
 [@disasm]: https://github.com/disasm
 [@romancardenas]: https://github.com/romancardenas
