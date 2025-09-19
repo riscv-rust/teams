@@ -40,6 +40,7 @@ Maintains all the crates related to GD32VF103x chips.
 #### Members
 
 - [@disasm]
+- [@dcz-self]
 
 #### Projects
 
