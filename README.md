@@ -63,3 +63,4 @@ Maintains all the crates related to GD32VF103x chips.
 
 [@disasm]: https://github.com/disasm
 [@romancardenas]: https://github.com/romancardenas
+[@dcz-self]: https://dorotac.eu
