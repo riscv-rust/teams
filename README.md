@@ -46,7 +46,7 @@ Maintains all the crates related to GD32VF103x chips.
 
 - [`gd32vf103-pac`]
 - [`gd32vf103xx-hal`]
-- [`logan-nano`]
+- [`longan-nano`]
 - [`seedstudio-gd32v`]
 
 
@@ -58,7 +58,7 @@ Maintains all the crates related to GD32VF103x chips.
 [`riscv-rust-quickstart`]: https://github.com/riscv-rust/riscv-rust-quickstart
 [`gd32vf103-pac`]: https://github.com/riscv-rust/gd32vf103-pac
 [`gd32vf103xx-hal`]: https://github.com/riscv-rust/gd32vf103xx-hal
-[`logan-nano`]: https://github.com/riscv-rust/logan-nano
+[`longan-nano`]: https://github.com/riscv-rust/longan-nano
 [`seedstudio-gd32v`]: https://github.com/riscv-rust/seedstudio-gd32v
 
 [@disasm]: https://github.com/disasm
