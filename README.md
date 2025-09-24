@@ -49,7 +49,12 @@ Maintains all the crates related to GD32VF103x chips.
 - [`longan-nano`]
 - [`seedstudio-gd32v`]
 
+#### Contribution policy
 
+Applies to all crates maintained by this team. The policy may change as needed.
+
+- Pushes to master are not allowed.
+- If a pull request stays open for a week without activity, any maintainer (including the author) is allowed to merge it immediately.
 
 
 [issue tracker]: https://github.com/riscv-rust/teams/issues
